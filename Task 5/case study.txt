@@ -1,0 +1,28 @@
+Case Study: Cyberbullying  
+
+Cyberbullying involves the use of digital platforms to harass, threaten, or humiliate an 
+individual. Unlike traditional bullying, it is persistent, reaches a vast audience instantly, and 
+often leaves a permanent digital footprint. This case study examines a realistic scenario 
+involving a college student targeted by "Deepfake" technology. 
+How it Happens : 
+1. Selection: A student is targeted following a minor campus dispute or simply 
+because their social media profile is public and contains high-quality photos. 
+2. Creation: The bully uses easily accessible AI tools to "morph" the victim's face onto 
+suggestive or compromising images/videos, creating a highly realistic but entirely 
+fake "Deepfake." 
+3. Dissemination: The attacker shares this media across anonymous college 
+confession pages and private WhatsApp groups, often using a "burner" (disposable) 
+account to hide their identity. 
+4. The Pressure: The bully then contacts the victim directly, threatening to send the 
+media to their parents or the college administration unless a "ransom" is paid or the 
+victim deletes their social media. 
+5. The Impact: The victim, fearing social ruin, experiences severe psychological 
+distress, isolation, and academic decline. 
+Typical Targets: While anyone can be a victim, female college students are 
+disproportionately targeted for image-based abuse. High-profile students, such as student 
+union leaders or campus influencers, are also frequently targeted to damage their 
+reputations. 
+Consequences: The consequences are grave, ranging from severe anxiety and depression 
+to academic expulsion or self-harm. Legally, the perpetrator can be charged under 
+Sections 66E (Privacy Violation) and 67 (Publishing Obscene Material) of the IT Act, 
+leading to imprisonment and a permanent criminal record.
